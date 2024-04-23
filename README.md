@@ -1,0 +1,2 @@
+# PDF Template Generator
+Generates a PDF file for students to take notes for each Python subtopic by first reading off data from a csv file using the pandas library and then recording the output to a PDF file using the FPDF library.
